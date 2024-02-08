@@ -1,2 +1,2 @@
 # Code4NoisyDegroot
-This code is for paper Opinion Disagreement for Noisy Social Networks submitted to WWW 2024, including APPROXDELTA and SAMPLEDELTA.
+This code is for paper "Behavior and Sublinear Algorithm for Opinion Disagreement on Noisy Social Networks" submitted to KDD 2024, including APPROXDELTA and SAMPLEDELTA.
